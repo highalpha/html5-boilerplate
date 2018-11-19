@@ -656,7 +656,7 @@ ul {
     width: 100%; }
     @media (min-width: 51.25em) {
       .footer-cta h1 {
-        width: 60%; } }
+        width: 80%; } }
   .footer-cta p {
     margin-top: 40px;
     max-width: 100%; }
