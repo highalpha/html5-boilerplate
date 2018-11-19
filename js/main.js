@@ -1,0 +1,9 @@
+ScrollReveal().reveal('.hero-background-pattern', { delay: 500 });
+ScrollReveal().reveal('.speaker-background-pattern', { delay: 500 });
+ScrollReveal().reveal('.speaker-container', { delay: 500 });
+ScrollReveal().reveal('.about-background-pattern', { delay: 200 });
+ScrollReveal().reveal('.agenda-background-pattern', { delay: 200 });
+ScrollReveal().reveal('.agenda-item', { delay: 200 });
+ScrollReveal().reveal('.location-venue', { delay: 500 });
+ScrollReveal().reveal('.floater', { delay: 1000 });
+ScrollReveal().reveal('.location-pattern', { delay: 1000 });

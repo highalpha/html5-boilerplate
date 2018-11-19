@@ -1,6 +1,32 @@
+.speaker-background-pattern {
+    position: absolute;
+    top:-40px;
+    right:-80px;
+    display: block;
+    width: 300px;
+    z-index: -2;
+
+    @include bp(820up) {
+        top: -90px;
+        right: -80px;
+        width: 500px;
+    }
+
+    img {
+        width: 100%;
+        // min-width: 1000px;
+    }
+}
+
+
+
 .speakers-hero {
-    padding-top: 120px;
+    padding-top: 60px;
     overflow: hidden;
+
+    @include bp(480up) {
+        padding-top: 120px;
+    }
 
     .container {
         position: relative;
@@ -82,6 +108,7 @@
 
 .speakers-grid {
     padding: 80px 20px;
+    overflow: hidden;
 
     .speaker-boxes {
 

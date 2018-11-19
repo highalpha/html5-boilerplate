@@ -20,10 +20,14 @@ ul {
     color: #ffffff;
     background: $primary_color;
     padding: 16px 40px;
-    font-size: 1.5em;
+    font-size: 1em;
     letter-spacing: .025em;
     text-transform: uppercase;
     font-weight: 700;
+
+    @include bp(600) {
+        font-size: 1.5em;
+    }
 
     &:before {
         content: "";
@@ -57,7 +61,7 @@ ul {
 
 .background-pattern {
     position: absolute;
-    top: 0;
+    top: 120px;
     left: 0;
     width: 100%;
     z-index: -2;
@@ -73,26 +77,6 @@ ul {
         // min-width: 1000px;
     }
 
-}
-
-.hero-background-pattern {
-    position: absolute;
-    top:-90px;
-    right:-150px;
-    display: block;
-    width: 300px;
-    z-index: -2;
-
-    @include bp(820up) {
-        top: -90px;
-        right: -250px;
-        width: 600px;
-    }
-
-    img {
-        width: 100%;
-        // min-width: 1000px;
-    }
 }
 
 .speaker-boxes {
@@ -186,4 +170,35 @@ ul {
         }
 
     }
+}
+
+html.sr .load-hidden {
+    visibility: hidden;
+}
+
+
+//Floaters
+
+.speaker-container {
+    position: relative;
+}
+.floater {
+    position: absolute;
+    width: 160px;
+}
+
+.floater-2 {
+    top:0px;
+    left: -60px;
+}
+
+.floater-5 {
+    bottom:0px;
+    right: -50px;
+}
+
+.floater-3 {
+    width: 60px;
+    bottom:50%;
+    right: -30px;
 }

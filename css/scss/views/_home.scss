@@ -1,10 +1,11 @@
 .hero {
     overflow: hidden;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 
-    @include bp(820up) {
+    @include bp(480up) {
         padding-bottom: 200px;
+        padding-top: 100px;
     }
 
     .container {
@@ -12,7 +13,39 @@
     }
 
     h1 {
-        max-width: 75%;
+        max-width: 90%;
+
+        @include bp(480up) {
+            max-width: 75%;
+        }
+    }
+}
+
+.hero-background-pattern {
+    position: absolute;
+    display: block;
+    z-index: -2;
+
+    top: -40px;
+    right: -180px;
+    width: 300px;
+
+    @include bp(480up) {
+        top:-40px;
+        right:-180px;
+        width: 400px;
+    }
+
+    @include bp(820up) {
+        top:-90px;
+        right:-250px;
+        width: 600px;
+    }
+
+
+    img {
+        width: 100%;
+        // min-width: 1000px;
     }
 }
 
@@ -71,6 +104,7 @@
 .speakers-section {
     position: relative;
     margin-top: 100px;
+    overflow: hidden;
 
     @include bp(820up) {
         margin-top: 140px;

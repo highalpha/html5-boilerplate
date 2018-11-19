@@ -24,7 +24,7 @@ header {
     nav {
         float: right;
 
-        @include bp(480up) {
+        @include bp(600up) {
             float: left;
         }
 
@@ -51,13 +51,14 @@ header {
         }
     }
     .header-cta {
-        display: inline-block;
+        display: none;
         margin: 0 auto;
         text-align: center;
 
-        @include bp(480up) {
+        @include bp(600up) {
             float: right;
             margin: 20px 0;
+            display: block;
         }
     }
 }

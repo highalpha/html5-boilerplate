@@ -4,20 +4,23 @@ footer {
 
     .banner2 {
         text-align: center;
+        font-size: 1em;
     }
 
     .sponsors {
         display: flex;
 
         li {
-            width: 33.33%;
+            // width: 33.33%;
+            width: 300px;
+            margin: 0 auto;
 
             a {
                 display: block;
                 padding: 80px 20px;
 
                 @include bp(820up) {
-                    padding: 80px 80px;
+                    padding: 80px 40px;
                 }
 
 

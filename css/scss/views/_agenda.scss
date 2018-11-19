@@ -14,7 +14,7 @@
         display: block;
         width: 200px;
 
-        @include bp(820up) {
+        @include bp(480up) {
             top: -60px;
             right: -100px;
             width: 300px;
