@@ -51,9 +51,11 @@ header {
         }
     }
     .header-cta {
-        display: none;
-        margin: 0 auto;
-        text-align: center;
+        // display: none;
+        float: right;
+        margin: 20px 0;
+        display: block;
+
 
         @include bp(600up) {
             float: right;

@@ -216,11 +216,12 @@
 
 .location-section {
     margin-top: 100px;
-    padding-bottom: 400px;
+    padding-bottom: 300px;
     overflow: hidden;
 
     @include bp(820up) {
         margin-top: 140px;
+        padding-bottom: 400px;
     }
 
     .container {

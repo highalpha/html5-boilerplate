@@ -727,9 +727,9 @@ header {
             color: #52E76B;
             transition: color .25s ease; }
   header .header-cta {
-    display: none;
-    margin: 0 auto;
-    text-align: center; }
+    float: right;
+    margin: 20px 0;
+    display: block; }
     @media (min-width: 43.75em) {
       header .header-cta {
         float: right;
@@ -937,11 +937,12 @@ a {
 
 .location-section {
   margin-top: 100px;
-  padding-bottom: 400px;
+  padding-bottom: 300px;
   overflow: hidden; }
   @media (min-width: 51.25em) {
     .location-section {
-      margin-top: 140px; } }
+      margin-top: 140px;
+      padding-bottom: 400px; } }
   .location-section .container {
     position: relative; }
   .location-section .location-content {
