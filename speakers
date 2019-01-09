@@ -10,7 +10,7 @@
   <link rel="icon" href="favicon.ico" type="image/x-icon"/>
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
   <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="../img/favicon.png">
+  <link rel="apple-touch-icon" href="img/favicon.png">
   <!-- Place favicon.ico in the root directory -->
   <link rel="stylesheet" href="https://use.typekit.net/ehv6jew.css">
   <script src="js/scrollreveal.js"></script>
@@ -35,7 +35,7 @@
   <header>
       <div class="container">
           <div class="logo">
-              <a href="/"><img src="../img/alloy-logo.png"/></a>
+              <a href="/"><img src="img/alloy-logo.png"/></a>
           </div>
           <nav>
               <ul>
@@ -56,16 +56,16 @@
 
   <section class="speakers-hero">
       <div class="background-pattern">
-          <img src="../img/pattern-bg.png"/>
+          <img src="img/pattern-bg.png"/>
       </div>
       <div class="container">
           <div class="speaker-background-pattern load-hidden">
-              <img src="../img/speakers-hero-bg.png"/>
+              <img src="img/speakers-hero-bg.png"/>
           </div>
           <h1>Alloy<br />Speakers</h1>
           <div class="primary-speaker">
               <div class="speaker-image">
-                  <img src="../img/aaron-hero.jpg" />
+                  <img src="img/aaron-hero.jpg" />
               </div>
               <div class="speaker-content">
                   <h2>Aaron Levie</h2>
@@ -79,10 +79,10 @@
                   <div class="social">
                       <ul>
                           <li>
-                              <a href="https://www.linkedin.com/in/boxaaron" target="_blank"><img src="../img/linkedin.png" /></a>
+                              <a href="https://www.linkedin.com/in/boxaaron" target="_blank"><img src="img/linkedin.png" /></a>
                           </li>
                           <li>
-                              <a href="https://twitter.com/levie" target="_blank"><img src="../img/twitter.png" /></a>
+                              <a href="https://twitter.com/levie" target="_blank"><img src="img/twitter.png" /></a>
                           </li>
                       </ul>
                   </div>
@@ -98,10 +98,10 @@
               <ul>
                   <li class="speaker-container">
                       <div class="floater floater-2">
-                          <img src="../img/floater-3.png" />
+                          <img src="img/floater-3.png" />
                       </div>
                       <div class="speaker-image">
-                          <img src="../img/greg-becker.png" />
+                          <img src="img/greg-becker.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Greg Becker</h2>
@@ -112,7 +112,7 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/beckergreg/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/beckergreg/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -120,7 +120,7 @@
                   </li>
                   <li class="speaker-container">
                       <div class="speaker-image">
-                          <img src="../img/david-horowitz.jpg" />
+                          <img src="img/david-horowitz.jpg" />
                       </div>
                       <div class="speaker-content">
                           <h2>David Horowitz</h2>
@@ -131,10 +131,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/davidbhorowitz/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/davidbhorowitz/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/DavidBHorowitz" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/DavidBHorowitz" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -142,7 +142,7 @@
                   </li>
                   <li class="speaker-container">
                       <div class="speaker-image">
-                          <img src="../img/ian-small.png" />
+                          <img src="img/ian-small.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Ian Small</h2>
@@ -153,10 +153,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/iansmall/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/iansmall/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/iansmall" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/iansmall" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -164,7 +164,7 @@
                   </li>
                   <li class="speaker-container">
                       <div class="speaker-image">
-                          <img src="../img/lisa-coca.png" />
+                          <img src="img/lisa-coca.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Lisa Coca</h2>
@@ -175,7 +175,7 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/lisabcoca/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/lisabcoca/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -183,7 +183,7 @@
                   </li>
                   <li class="speaker-container">
                       <div class="speaker-image">
-                          <img src="../img/dave-knox.png" />
+                          <img src="img/dave-knox.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Dave Knox</h2>
@@ -194,10 +194,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/daveknox/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/daveknox/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/daveknox" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/daveknox" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -205,7 +205,7 @@
                   </li>
                   <li class="speaker-container">
                         <div class="speaker-image">
-                          <img src="../img/david-cohen.png" />
+                          <img src="img/david-cohen.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>David Cohen</h2>
@@ -216,10 +216,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/davidgcohen/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/davidgcohen/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/davidcohen" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/davidcohen" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -227,7 +227,7 @@
                   </li>
                   <li class="speaker-container">
                         <div class="speaker-image">
-                          <img src="../img/julie-sandler.png" />
+                          <img src="img/julie-sandler.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Julie Sandler</h2>
@@ -238,10 +238,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/juliesandler/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/juliesandler/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/juliesandler" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/juliesandler" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -249,10 +249,10 @@
                   </li>
                   <li class="speaker-container">
                       <div class="floater floater-3">
-                          <img src="../img/floater-1.png" />
+                          <img src="img/floater-1.png" />
                       </div>
                       <div class="speaker-image">
-                          <img src="../img/joe-gerber.png" />
+                          <img src="img/joe-gerber.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Joe Gerber</h2>
@@ -263,10 +263,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/gerberjoe/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/gerberjoe/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/Joe__Gerber" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/Joe__Gerber" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -274,10 +274,10 @@
                   </li>
               <!--    <li class="speaker-container">
                       <div class="floater floater-3">
-                          <img src="../img/floater-1.png" />
+                          <img src="img/floater-1.png" />
                       </div>
                       <div class="speaker-image">
-                          <img src="../img/elliott.png" />
+                          <img src="img/elliott.png" />
                       </div>
                       <div class="speaker-content">
                           <h2>Elliott Parker</h2>
@@ -288,10 +288,10 @@
                           <div class="social">
                               <ul>
                                   <li>
-                                      <a href="https://www.linkedin.com/in/elliottparker/" target="_blank"><img src="../img/linkedin.png" /></a>
+                                      <a href="https://www.linkedin.com/in/elliottparker/" target="_blank"><img src="img/linkedin.png" /></a>
                                   </li>
                                   <li>
-                                      <a href="https://twitter.com/erparker" target="_blank"><img src="../img/twitter.png" /></a>
+                                      <a href="https://twitter.com/erparker" target="_blank"><img src="img/twitter.png" /></a>
                                   </li>
                               </ul>
                           </div>
@@ -306,14 +306,14 @@
 
   <section class="footer-cta">
       <div class="background-pattern">
-          <img src="../img/pattern-bg.png"/>
+          <img src="img/pattern-bg.png"/>
       </div>
       <div class="container">
           <div class="hero-background-pattern">
-              <img src="../img/hero-bg-group.png"/>
+              <img src="img/hero-bg-group.png"/>
           </div>
           <div class="logo2">
-              <img src="../img/alloy19.png" />
+              <img src="img/alloy19.png" />
           </div>
           <div class="banner2">
               February 5th, 2019 | San Francisco
@@ -335,13 +335,13 @@
           </div>
           <ul class="sponsors">
               <li>
-                <a href="https://highalpha.com" target="_blank"><img src="../img/ha-logo.png" /></a>
+                <a href="https://highalpha.com" target="_blank"><img src="img/ha-logo.png" /></a>
               </li>
               <!-- <li>
-                  <a href="#" class="svb-capital"><img src="../img/svb-logo.png" /></a>
+                  <a href="#" class="svb-capital"><img src="img/svb-logo.png" /></a>
               </li>
               <li>
-                  <a href="#"><img src="../img/ideo-logo.png" /></a>
+                  <a href="#"><img src="img/ideo-logo.png" /></a>
               </li> -->
           </ul>
       </div>
