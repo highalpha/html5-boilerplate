@@ -1,0 +1,365 @@
+
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Alloy 2019 | Speakers</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="img/favicon.png">
+  <!-- Place favicon.ico in the root directory -->
+  <link rel="stylesheet" href="https://use.typekit.net/ehv6jew.css">
+  <script src="js/scrollreveal.js"></script>
+  <link rel="stylesheet" href="css/style.css">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-64166624-6"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-64166624-6');
+  </script>
+</head>
+
+<body>
+  <!--[if lte IE 9]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+  <header>
+      <div class="container">
+          <div class="logo">
+              <a href="/"><img src="img/alloy-logo.png"/></a>
+          </div>
+          <nav>
+              <ul>
+                  <li>
+                      <a  class="page-active" href="/speakers">Speakers</a>
+                  </li>
+                  <li>
+                      <a href="/agenda">Agenda</a>
+                  </li>
+              </ul>
+          </nav>
+          <a href="https://www.eventbrite.com/e/alloy-2019-registration-47871418702" class="header-cta btn" target="_blank" >
+              Register Now
+          </a>
+      </div>
+
+  </header>
+
+  <section class="speakers-hero">
+      <div class="background-pattern">
+          <img src="img/pattern-bg.png"/>
+      </div>
+      <div class="container">
+          <div class="speaker-background-pattern load-hidden">
+              <img src="img/speakers-hero-bg.png"/>
+          </div>
+          <h1>Alloy<br />Speakers</h1>
+          <div class="primary-speaker">
+              <div class="speaker-image">
+                  <img src="img/aaron-hero.jpg" />
+              </div>
+              <div class="speaker-content">
+                  <h2>Aaron Levie</h2>
+                  <p>
+                      CEO, Box
+                  </p>
+                  <hr />
+                  <p class="smaller-p">
+                    Aaron Levie is Chief Executive Officer, Cofounder and Chairman at Box, which he launched in 2005 with CFO and cofounder Dylan Smith. He is the visionary behind the Box product and platform strategy, incorporating the best of secure content collaboration with an intuitive user experience suited to the way people work today. Aaron leads the company in its mission to transform the way people and businesses work so they can achieve their greatest ambitions. He has served on the Board of Directors since April 2005.
+                  </p>
+                  <div class="social">
+                      <ul>
+                          <li>
+                              <a href="https://www.linkedin.com/in/boxaaron" target="_blank"><img src="img/linkedin.png" /></a>
+                          </li>
+                          <li>
+                              <a href="https://twitter.com/levie" target="_blank"><img src="img/twitter.png" /></a>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+
+  <section class="speakers-grid">
+      <div class="container">
+
+          <div class="speaker-boxes">
+              <ul>
+                  <li class="speaker-container">
+                      <div class="floater floater-2">
+                          <img src="img/floater-3.png" />
+                      </div>
+                      <div class="speaker-image">
+                          <img src="img/greg-becker.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Greg Becker</h2>
+                          <p>
+                              CEO, Silicon Valley Bank
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/beckergreg/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                      <div class="speaker-image">
+                          <img src="img/david-horowitz.jpg" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>David Horowitz</h2>
+                          <p>
+                              Founder and CEO, Touchdown Ventures
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/davidbhorowitz/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/DavidBHorowitz" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                      <div class="speaker-image">
+                          <img src="img/ian-small.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Ian Small</h2>
+                          <p>
+                              CEO, Evernote
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/iansmall/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/iansmall" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                      <div class="speaker-image">
+                          <img src="img/lisa-coca.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Lisa Coca</h2>
+                          <p>
+                              Managing Director, GE Ventures
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/lisabcoca/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                      <div class="speaker-image">
+                          <img src="img/dave-knox.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Dave Knox</h2>
+                          <p>
+                              Author, Predicting the Turn
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/daveknox/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/daveknox" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                        <div class="speaker-image">
+                          <img src="img/david-cohen.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>David Cohen</h2>
+                          <p>
+                              Founder and Co-CEO, Techstars
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/davidgcohen/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/davidcohen" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                        <div class="speaker-image">
+                          <img src="img/julie-sandler.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Julie Sandler</h2>
+                          <p>
+                              Managing Director, PSL
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/juliesandler/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/juliesandler" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="speaker-container">
+                      <div class="floater floater-3">
+                          <img src="img/floater-1.png" />
+                      </div>
+                      <div class="speaker-image">
+                          <img src="img/joe-gerber.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Joe Gerber</h2>
+                          <p>
+                              Managing Director, IDEO CoLab
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/gerberjoe/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/Joe__Gerber" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li>
+              <!--    <li class="speaker-container">
+                      <div class="floater floater-3">
+                          <img src="img/floater-1.png" />
+                      </div>
+                      <div class="speaker-image">
+                          <img src="img/elliott.png" />
+                      </div>
+                      <div class="speaker-content">
+                          <h2>Elliott Parker</h2>
+                          <p>
+                              Managing Director, Business Design, High Alpha
+                          </p>
+                          <hr />
+                          <div class="social">
+                              <ul>
+                                  <li>
+                                      <a href="https://www.linkedin.com/in/elliottparker/" target="_blank"><img src="img/linkedin.png" /></a>
+                                  </li>
+                                  <li>
+                                      <a href="https://twitter.com/erparker" target="_blank"><img src="img/twitter.png" /></a>
+                                  </li>
+                              </ul>
+                          </div>
+                      </div>
+                  </li> -->
+
+              </ul>
+
+          </div>
+      </div>
+  </section>
+
+  <section class="footer-cta">
+      <div class="background-pattern">
+          <img src="img/pattern-bg.png"/>
+      </div>
+      <div class="container">
+          <div class="hero-background-pattern">
+              <img src="img/hero-bg-group.png"/>
+          </div>
+          <div class="logo2">
+              <img src="img/alloy19.png" />
+          </div>
+          <div class="banner2">
+              February 5th, 2019 | San Francisco
+          </div>
+          <div class="footer-cta-content">
+              <h1>Join Us at Alloy 2019.</h1>
+              <a class="btn"href="https://www.eventbrite.com/e/alloy-2019-registration-47871418702" target="_blank" >Register Now</a>
+              <p class="smaller-p">
+                  Alloy is an invite-only event. If you do not have a registration code or would like to request an invite, <a href="mailto:alloy@highalpha.com">send us an  email</a>.
+              </p>
+          </div>
+      </div>
+  </section>
+
+  <footer>
+      <div class="container">
+          <div class="banner2">
+              Alloy Is Brought to You By:
+          </div>
+          <ul class="sponsors">
+              <li>
+                <a href="https://highalpha.com" target="_blank"><img src="img/ha-logo.png" /></a>
+              </li>
+              <li>
+                  <a href="https://www.svb.com/" target="_blank"><img src="img/svb_logo_2.png" /></a>
+              </li>
+              <li>
+                <a href="https://www.ideocolab.com/" target="_blank"><img src="img/ideo-logo.png" /></a>
+              </li>
+          </ul>
+      </div>
+      <div class="all-rights">
+          <div class="container">
+              © High Alpha 2019. All rights reserved.
+          </div>
+      </div>
+  </footer>
+
+
+
+  <script src="js/vendor/modernizr-3.6.0.min.js"></script>
+  <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"></script> -->
+  <script src="js/vendor/jquery-3.3.1.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
