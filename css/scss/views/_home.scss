@@ -110,6 +110,115 @@
         margin-top: 140px;
     }
 
+    h1 {
+        max-width: 600px;
+        margin-bottom: 40px;
+    }
+
+    .speaker-boxes {
+
+        ul {
+            display: flex;
+
+            li {
+                width: 50%;
+                margin: 0;
+
+                @include bp(820up) {
+                    width: 25%;
+                }
+
+                &.name-container {
+                    margin-top: 40px;
+
+                    @include bp(600up) {
+                        margin-top: 70px;
+                    }
+
+                    div {
+                        max-width: 80%;
+                        display: inline-block;
+
+                        &.green {
+                            border-bottom: 1px solid $tertiary_color;
+                        }
+
+                        &.blue {
+                            border-bottom: 1px solid $secondary_color;
+                        }
+
+                        &.red {
+                            border-bottom: 1px solid $primary_color;
+                        }
+
+                        &.purple {
+                            border-bottom: 1px solid #313A88;
+                        }
+                    }
+                }
+            }
+        }
+
+        h2 {
+            font-size: 1.2em;
+
+            @include bp(600up) {
+                font-size: 1.7em;
+            }
+        }
+
+        p {
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: .7em;
+            padding-top: 5px;
+            margin-top: 0;
+
+            @include bp(600up) {
+                font-size: .9em;
+            }
+        }
+    }
+
+    .name-after {
+        text-align: left;
+
+        div {
+            padding-left: 20px;
+        }
+    }
+
+    .name-before {
+        text-align: right;
+
+        div {
+            padding-right: 20px;
+        }
+    }
+
+    // .speaker1 {
+    //     margin-top: 40px;
+    //
+    //     @include bp(820up) {
+    //         margin-top: 80px;
+    //     }
+    // }
+    // .speaker2 {
+    //     margin-top: 40px;
+    //
+    //     @include bp(820up) {
+    //         margin-top: 160px;
+    //     }
+    // }
+    // .speaker3 {
+    //     margin-top: 40px;
+    //
+    //     @include bp(820up) {
+    //         margin-top: 0px;
+    //     }
+    //
+    // }
+
     .background-pattern {
         position: absolute;
         top: 40px;
@@ -122,34 +231,6 @@
         img {
             width: 100%;
             // min-width: 1000px;
-        }
-
-    }
-
-    h1 {
-        max-width: 600px;
-        margin-bottom: 40px;
-    }
-
-    .speaker1 {
-        margin-top: 40px;
-
-        @include bp(820up) {
-            margin-top: 80px;
-        }
-    }
-    .speaker2 {
-        margin-top: 40px;
-
-        @include bp(820up) {
-            margin-top: 160px;
-        }
-    }
-    .speaker3 {
-        margin-top: 40px;
-
-        @include bp(820up) {
-            margin-top: 0px;
         }
 
     }

@@ -565,7 +565,7 @@ ul {
   display: inline-block;
   margin-top: 60px;
   color: #ffffff;
-  background: #6759FF;
+  background: #FF2662;
   padding: 16px 40px;
   font-size: 1em;
   letter-spacing: .025em;
@@ -589,6 +589,13 @@ ul {
   text-transform: uppercase;
   font-weight: 700;
   color: #000000; }
+
+.hero .banner2 {
+  margin-top: 20px;
+  margin-bottom: 20px; }
+  @media (min-width: 51.25em) {
+    .hero .banner2 {
+      margin-bottom: 80px; } }
 
 .tab-style {
   padding-left: 0; }
@@ -781,7 +788,7 @@ a {
 .btn {
   display: inline-block;
   color: #ffffff;
-  background: #6759FF;
+  background: #FF2662;
   padding: 10px 30px;
   font-size: 1em;
   letter-spacing: .025em;
@@ -867,6 +874,55 @@ a {
   @media (min-width: 51.25em) {
     .speakers-section {
       margin-top: 140px; } }
+  .speakers-section h1 {
+    max-width: 600px;
+    margin-bottom: 40px; }
+  .speakers-section .speaker-boxes ul {
+    display: flex; }
+    .speakers-section .speaker-boxes ul li {
+      width: 50%;
+      margin: 0; }
+      @media (min-width: 51.25em) {
+        .speakers-section .speaker-boxes ul li {
+          width: 25%; } }
+      .speakers-section .speaker-boxes ul li.name-container {
+        margin-top: 40px; }
+        @media (min-width: 43.75em) {
+          .speakers-section .speaker-boxes ul li.name-container {
+            margin-top: 70px; } }
+        .speakers-section .speaker-boxes ul li.name-container div {
+          max-width: 80%;
+          display: inline-block; }
+          .speakers-section .speaker-boxes ul li.name-container div.green {
+            border-bottom: 1px solid #52E76B; }
+          .speakers-section .speaker-boxes ul li.name-container div.blue {
+            border-bottom: 1px solid #42D7FB; }
+          .speakers-section .speaker-boxes ul li.name-container div.red {
+            border-bottom: 1px solid #FF2662; }
+          .speakers-section .speaker-boxes ul li.name-container div.purple {
+            border-bottom: 1px solid #313A88; }
+  .speakers-section .speaker-boxes h2 {
+    font-size: 1.2em; }
+    @media (min-width: 43.75em) {
+      .speakers-section .speaker-boxes h2 {
+        font-size: 1.7em; } }
+  .speakers-section .speaker-boxes p {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: .7em;
+    padding-top: 5px;
+    margin-top: 0; }
+    @media (min-width: 43.75em) {
+      .speakers-section .speaker-boxes p {
+        font-size: .9em; } }
+  .speakers-section .name-after {
+    text-align: left; }
+    .speakers-section .name-after div {
+      padding-left: 20px; }
+  .speakers-section .name-before {
+    text-align: right; }
+    .speakers-section .name-before div {
+      padding-right: 20px; }
   .speakers-section .background-pattern {
     position: absolute;
     top: 40px;
@@ -877,24 +933,6 @@ a {
     height: 100%; }
     .speakers-section .background-pattern img {
       width: 100%; }
-  .speakers-section h1 {
-    max-width: 600px;
-    margin-bottom: 40px; }
-  .speakers-section .speaker1 {
-    margin-top: 40px; }
-    @media (min-width: 51.25em) {
-      .speakers-section .speaker1 {
-        margin-top: 80px; } }
-  .speakers-section .speaker2 {
-    margin-top: 40px; }
-    @media (min-width: 51.25em) {
-      .speakers-section .speaker2 {
-        margin-top: 160px; } }
-  .speakers-section .speaker3 {
-    margin-top: 40px; }
-    @media (min-width: 51.25em) {
-      .speakers-section .speaker3 {
-        margin-top: 0px; } }
 
 .startups {
   margin-top: 80px;

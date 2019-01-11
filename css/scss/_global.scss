@@ -48,6 +48,17 @@ ul {
     color: #000000;
 }
 
+.hero {
+    .banner2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+
+        @include bp(820up) {
+            margin-bottom: 80px;
+        }
+    }
+}
+
 // Tabbed Style
 .tab-style {
     padding-left: 0;
