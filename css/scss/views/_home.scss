@@ -4,7 +4,7 @@
     padding-bottom: 60px;
 
     @include bp(480up) {
-        padding-bottom: 200px;
+        padding-bottom: 180px;
         padding-top: 100px;
     }
 
@@ -13,10 +13,15 @@
     }
 
     h1 {
-        max-width: 90%;
+        // max-width: 90%;
+        font-size: 2.4em;
 
-        @include bp(480up) {
-            max-width: 75%;
+        @include bp(600up) {
+            font-size: 3.5em;
+        }
+
+        @include bp(820up) {
+            font-size: 5em;
         }
     }
 }

@@ -563,9 +563,9 @@ ul {
 .banner {
   position: relative;
   display: inline-block;
-  margin-top: 60px;
+  margin-top: 40px;
   color: #ffffff;
-  background: #FF2662;
+  background: #313A88;
   padding: 16px 40px;
   font-size: 1em;
   letter-spacing: .025em;
@@ -573,14 +573,14 @@ ul {
   font-weight: 700; }
   @media (min-width: 43.75em) {
     .banner {
-      font-size: 1.5em; } }
+      font-size: 1.1em; } }
   .banner:before {
     content: "";
     position: absolute;
     z-index: -1;
-    top: -20px;
-    right: -20px;
-    background: #9D94FF;
+    top: -14px;
+    right: -14px;
+    background: #6C77D6;
     height: 80%;
     width: 98%; }
 
@@ -591,11 +591,11 @@ ul {
   color: #000000; }
 
 .hero .banner2 {
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 20px; }
   @media (min-width: 51.25em) {
     .hero .banner2 {
-      margin-bottom: 80px; } }
+      margin-bottom: 60px; } }
 
 .tab-style {
   padding-left: 0; }
@@ -795,7 +795,7 @@ a {
   text-transform: uppercase;
   font-weight: 700; }
   .btn:hover {
-    background: #9D94FF;
+    background: #6C77D6;
     transition: background .25s ease; }
   .btn.secondary-btn {
     background: #42D7FB; }
@@ -806,15 +806,18 @@ a {
   padding-bottom: 60px; }
   @media (min-width: 30em) {
     .hero {
-      padding-bottom: 200px;
+      padding-bottom: 180px;
       padding-top: 100px; } }
   .hero .container {
     position: relative; }
   .hero h1 {
-    max-width: 90%; }
-    @media (min-width: 30em) {
+    font-size: 2.4em; }
+    @media (min-width: 43.75em) {
       .hero h1 {
-        max-width: 75%; } }
+        font-size: 3.5em; } }
+    @media (min-width: 51.25em) {
+      .hero h1 {
+        font-size: 5em; } }
 
 .hero-background-pattern {
   position: absolute;
@@ -1019,6 +1022,9 @@ a {
         padding-top: 100px; } }
     .location-section .location-pattern img {
       width: 100%; }
+
+.speakers-section .btn {
+  margin-bottom: 60px; }
 
 .speaker-background-pattern {
   position: absolute;

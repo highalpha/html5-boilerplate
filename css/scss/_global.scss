@@ -16,9 +16,9 @@ ul {
 .banner {
     position: relative;
     display: inline-block;
-    margin-top: 60px;
+    margin-top: 40px;
     color: #ffffff;
-    background: $primary_color;
+    background: $purple;
     padding: 16px 40px;
     font-size: 1em;
     letter-spacing: .025em;
@@ -26,15 +26,15 @@ ul {
     font-weight: 700;
 
     @include bp(600) {
-        font-size: 1.5em;
+        font-size: 1.1em;
     }
 
     &:before {
         content: "";
         position: absolute;
         z-index: -1;
-        top: -20px;
-        right: -20px;
+        top: -14px;
+        right: -14px;
         background: $primary_light;
         height: 80%;
         width: 98%;
@@ -50,11 +50,11 @@ ul {
 
 .hero {
     .banner2 {
-        margin-top: 20px;
+        margin-top: 40px;
         margin-bottom: 20px;
 
         @include bp(820up) {
-            margin-bottom: 80px;
+            margin-bottom: 60px;
         }
     }
 }
