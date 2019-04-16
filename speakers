@@ -40,10 +40,10 @@
           <nav>
               <ul>
                   <li>
-                      <a  class="page-active" href="/speakers">Speakers</a>
+                      <a  class="page-active" href="/speakers.html">Speakers</a>
                   </li>
                   <li>
-                      <a href="/agenda">Agenda</a>
+                      <a href="/agenda.html">Agenda</a>
                   </li>
               </ul>
           </nav>
@@ -341,10 +341,9 @@
               February 5th, 2019 | San Francisco
           </div>
           <div class="footer-cta-content">
-              <h1>Join Us at Alloy 2019.</h1>
-              <a class="btn"href="https://www.eventbrite.com/e/alloy-2019-registration-47871418702" target="_blank" >Register Now</a>
+              <h1>Join Us at Alloy 2020.</h1>
               <p class="smaller-p">
-                  Alloy is an invite-only event. If you do not have a registration code or would like to request an invite, <a href="mailto:alloy@highalpha.com">send us an  email</a>.
+                  Alloy 2019 was a great success. If you'd like to get an our early invite to Alloy 2020, <a href="mailto:alloy@highalpha.com">send us an  email</a>.
               </p>
           </div>
       </div>
